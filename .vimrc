@@ -20,6 +20,7 @@ Plugin 'Shougo/neocomplete'
 Plugin 'cakebaker/scss-syntax.vim'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'tomlion/vim-solidity'
+Plugin 'pangloss/vim-javascript'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
