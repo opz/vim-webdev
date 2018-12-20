@@ -56,3 +56,6 @@ set mouse=a
 " Line numbers
 set number
 set nowrap
+
+" Command T
+set wildignore+=node_modules
