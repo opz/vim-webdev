@@ -60,3 +60,6 @@ set nowrap
 
 " Command T
 set wildignore+=node_modules
+
+" Swap file location
+set directory^=$HOME/.vim/swap//
