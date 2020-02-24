@@ -45,7 +45,7 @@ set shiftwidth=4
 
 autocmd Filetype html setlocal ts=2 sw=2 expandtab
 " jQuery standard is 4 space tabs
-autocmd Filetype javascript setlocal ts=2 sw=2 expandtab
+autocmd Filetype javascript,json setlocal ts=2 sw=2 expandtab
 
 " Colors
 syntax enable
