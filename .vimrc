@@ -21,6 +21,7 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'tomlion/vim-solidity'
 Plugin 'pangloss/vim-javascript'
 Plugin 'prettier/vim-prettier' " Run `yarn install` in bundle directory
+Plugin 'ConradIrwin/vim-bracketed-paste'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
