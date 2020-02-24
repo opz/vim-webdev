@@ -20,6 +20,7 @@ Plugin 'cakebaker/scss-syntax.vim'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'tomlion/vim-solidity'
 Plugin 'pangloss/vim-javascript'
+Plugin 'mxw/vim-jsx'
 Plugin 'prettier/vim-prettier' " Run `yarn install` in bundle directory
 Plugin 'ConradIrwin/vim-bracketed-paste'
 
