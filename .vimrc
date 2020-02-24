@@ -15,7 +15,6 @@ Plugin 'VundleVim/Vundle.vim'
 " plugin on GitHub repo
 Plugin 'tpope/vim-fugitive'
 Plugin 'wincent/command-t'
-Plugin 'shawncplus/phpcomplete.vim'
 Plugin 'Shougo/neocomplete'
 Plugin 'cakebaker/scss-syntax.vim'
 Plugin 'altercation/vim-colors-solarized'
