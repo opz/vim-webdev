@@ -56,6 +56,7 @@ set mouse=a
 
 " Line numbers
 set number
+set relativenumber
 set nowrap
 
 " Command T
